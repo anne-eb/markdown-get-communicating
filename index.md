@@ -5,3 +5,8 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![Image of OfficeSpace Stapler Guy](https://github.com/anne-eb/markdown-get-communicating/blob/main/OfficeSpace%20Stapler.png)
+
+```
+$ git init
+Initialized empty Git repository in.....
+```
